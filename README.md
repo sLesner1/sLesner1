@@ -4,10 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
 ###
 
 <div align="center">
@@ -24,7 +20,7 @@
 
 ###
 
-<p align="left">Frontend-focused developer specializing in TypeScript, React, and Angular, with solid experience in React Native and Flutter.
+<p align="left">I'm Sebastian - a frontend developer specializing in TypeScript, React, and Angular, with solid experience in React Native and Flutter.
 I enjoy building real-world applications, solving complex problems, and improving existing systems.</p>
 
 ###
@@ -75,7 +71,7 @@ I enjoy building real-world applications, solving complex problems, and improvin
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥 My Stats</h3>
 
 ###
 
