@@ -22,8 +22,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sLesner1/sLesner1/output/pacman-contribution-graph.svg">
 </picture>
 
-##
-
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
